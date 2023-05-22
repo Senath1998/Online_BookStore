@@ -16,5 +16,15 @@
       }
     ],
     "no-inline-styles": "off"
-  }
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_chr <= 113",
+    "not chrome <= 113",
+    "not samsung <= 20",
+    "not and_chr <= 113",
+    "not chrome <= 113",
+    "not samsung <= 20"
+  ]
 }
